@@ -20,7 +20,7 @@ namespace Forma1_új
         public MainWindow()
         {
             InitializeComponent();
-            var result = SqlData.VSelect();
+            //var result = SqlData.VSelect();
         }
     }
 }
